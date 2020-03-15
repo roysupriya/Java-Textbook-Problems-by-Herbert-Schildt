@@ -1,6 +1,6 @@
 package chapter1;
 
-public class SecondSimpleJavaProgram {
+public class IntDataType {
 	public static void main(String args[]) {
 		int var1, var2;
 		var1 = 1024;
